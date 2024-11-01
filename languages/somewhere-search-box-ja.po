@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Somewhere search box\n"
+"POT-Creation-Date: 2017-07-13 11:05+0900\n"
+"PO-Revision-Date: 2017-07-13 11:07+0900\n"
+"Last-Translator: takenori matsuura <takenori.matsuura@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: C:/Program Files (x86)/Apache Software Foundation/"
+"Apache2.4/htdocs\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/somewhere-search-box\n"
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:55
+msgid "Search Posts"
+msgstr ""
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:84
+msgid "Search to post title"
+msgstr "タイトルのみ検索"
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:86
+msgid "Search"
+msgstr ""
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:102
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:107
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:102
+msgid "&laquo; Previous"
+msgstr ""
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:107
+msgid "Next &raquo;"
+msgstr ""
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:230
+msgid "Replicate this item"
+msgstr "この項目を複製"
+
+#: wp-content/plugins/somewhere-search-box/somewhere-search-box.php:230
+msgid "Replicate"
+msgstr "複製"
+
+#~ msgid "Search to post title."
+#~ msgstr "投稿タイトルのみを検索する。"
